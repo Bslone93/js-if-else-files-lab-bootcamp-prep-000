@@ -4,7 +4,7 @@ if (name === "Susan" ) {
   console.log("the name is correct")
 }
 
-if (height === "70"){
+if (height === 70){
   console.log("the height is correct")
 }
 // Don't worry about this
